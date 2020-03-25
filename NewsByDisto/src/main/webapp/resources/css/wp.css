@@ -1,0 +1,22 @@
+			.jelly_homepage_builder .large_post_content p, .jelly_homepage_builder .content_post_grid p{font-size: 16px;}
+.comment-form-comment{margin-bottom: 0px;}#commentform #submit, .wpcf7-form-control.wpcf7-submit{margin-top: 30px;}
+.image-post-thumb iframe {
+    margin-bottom: 0px !important;
+}
+.jl_search_rel#wrapper_masonry{
+    padding-top: 50px;
+}
+.footer-columns .cat-item.cat-item-8, .footer-columns .cat-item.cat-item-9{display: none;}
+.social-count-plus .count:before{
+    content: "2";
+
+}
+.social-count-plus .count:after{
+    content: ".5k";
+
+}
+
+.wp-caption p.wp-caption-text{font-style: normal; letter-spacing: -0.03em; font-weight: 300 !important;font-size: 14px !important;}
+.jl_single_style8 .single-post-meta-wrapper span.post-author a:hover{
+    color: #fff !important;
+}		
